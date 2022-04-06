@@ -9,8 +9,8 @@ Dataset used was the IMDb and python libraries for the sentiment analysis were P
 Below models were implemented:
 - pre-trained word embeddings (fasttext)
 - 3 different RNN/ LSTM architectures
-  ● multi-layer uni-directional RNN
-  ● multi-layer bidirectional RNN
-  ● multi-layer bidirectional LSTM
+  - multi-layer uni-directional RNN
+  - multi-layer bidirectional RNN
+  - multi-layer bidirectional LSTM
 - regularization
 - optimizer
